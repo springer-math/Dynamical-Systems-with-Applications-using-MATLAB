@@ -1,6 +1,6 @@
-# Apress Source Code
+# Springer Source Code
 
-This repository accompanies [*Dynamical Systems with Applications using MATLAB®*](http://www.springer.com/book/9783319068190) by Stephen Lynch (Birkhäuser, 2014).
+This repository accompanies [*Dynamical Systems with Applications using MATLABÂ®*](http://www.springer.com/book/9783319068190) by Stephen Lynch (BirkhÃ¤user, 2014).
 
 ![Cover image](cover.png)
 
