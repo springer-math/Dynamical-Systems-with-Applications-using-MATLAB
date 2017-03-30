@@ -1,0 +1,123 @@
+﻿%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% DYNAMICAL SYSTEMS WITH APPLICATIONS USING MATLAB 2nd Edition %
+% COPYRIGHT SPRINGER/BIRKHAUSER 2014    STEPHEN LYNCH          %
+% MATLAB FILES UPDATED FOR R2016a                              %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Text and JPEG Files
+
+Book Table of Contents.txt --- Contents of the book.
+housing.txt --- Data file to be used in Chapter 18.
+Index of MATLAB Files.txt --- This file!
+lena.jpg --- An image file used in Chapter 7.
+
+Pdf Files
+MMU_Mock_Exam_1.pdf
+MMU_Mock_Exam_2.pdf
+
+MATLAB and MuPAD Files
+
+Program_1a.m --- Tutorial One (You should run it in the Command Window)
+Program_1b.m --- Tutorial Two (You should run it in the Command Window)
+Program_2a.m --- Solving Recurrence Relations
+Program_2b.m --- The Leslie Matrix
+Program_3a.m --- Graphical Iteration of the Tent Map
+Program_3b.m --- Graphical Iteration of the Logistic Map
+Program_3c.m --- Computing a Lyapunov Exponent for the Logistic Map
+Program_3d.m --- Bifurcation Diagram of the Logistic Map
+Program_3e.m --- Bifurcation Diagram of the Gaussian Map
+Program_3f.m --- Chaotic Attractor for the Henon Map
+Program_3g.m --- Computation of the Lyapunov Exponents of the Henon Map
+Program_4a.m --- A Julia Set
+Program_4b.m --- The Mandelbrot Set
+Program_4c.m --- Color Mandelbrot Set
+Program_5a.m --- Determining Fixed Points of Period One
+Program_5b.m --- Chaotic Attractor of the Ikeda Map
+Program_5c.m --- Bifurcation Diagram of the Simple Fiber Ring Resonator
+Program_5d.m --- Animation of a Bifurcation Diagram
+Program_6a.m --- The Koch Curve
+Program_6b.m --- The Sierpinski Triangle
+Program_6c.m --- Barnsley's Fern
+Program_6d.m --- Multifractal tau Curve
+Program_6e.m --- Multifractal D_q Curve
+Program_6f.m --- Multifractal f-alpha Curve
+Program_7a.m --- Signal Corrupted with Noise and Power Spectrum
+Program_7b.m --- Chaotic Attractor and Power Spectrum
+Program_7c.m --- Fast Fourier Transform, Low Pass on Lena.jpg
+Program_8a.m --- Simple ODE Exercises
+Program_8b.m --- Population Model
+Program_8c.m --- Chemical Kinetics
+Program_8d.mn --- MuPAD Commands for Series Solution
+Program_8e.m --- Series and Numerical Solution van der Pol
+vectorfield.m --- Program to Plot Vector Field of a Planar System
+Program_9a.m --- Phase Portrait of a Linear System
+Program_9b.m --- Phase Portrait of a Nonlinear System
+Programs_10a.m --- Competing Species Model
+Programs_10b.m --- Predator-Prey Model
+Programs_11a.m --- Limit Cycle of a Van der Pol System
+Programs_11b.m --- Non-Convex Limit Cycle of a Lienard System
+Programs_11c.m --- Limit Cycle of Fitzhugh-Nagumo Model of Neuron
+
+Programs_11d.m -—- Two limit cycles in an economic Kaldor model
+Programs_11e.m --- Perturbation methods for Example 7
+Programs_11f.mn --- Perturbation methods for Example 7 using MuPAD
+Programs_12a.m --- The Double Well Potential
+Programs_12b.m --- Lyapunov Function for a Hopfield Network
+Programs_13a.m --- Animation of a Simple Curve
+Programs_13b.m --- Finding Critical Points
+Programs_13c.m --- Needed for Programs_13d
+Programs_13d.m --- Hopf Bifurcation Animation
+Programs_14a.m --- The Lorenz Attractor
+Programs_14b.m --- Chua's Double Scroll Attractor
+Programs_14c.m --- The Chapman Cycle (Ozone Production)
+Programs_14d.m --- Computing the Lyapunov Exponents of the Lorenz System
+Programs_14e.m --- Time Series for a Stiff Belousov-Zhabotinski Reaction
+Programs_14f.m --- Animation of Chua circuit bifurcation
+Programs_15a.m --- Simple Poincare Map
+Programs_15b.m --- Poincare Surface of Section for Hamiltonians
+Programs_15c.m --- Phase Portrait for the Nonautonomous Duffing System
+Programs_15d.m --- Poincare Section of the Duffing System
+Programs_15e.m --- Hamiltonian with two Degrees of Freedom
+Programs_15f.m --- Needed for Programs_15g
+Programs_15g.m --- Bifurcation Diagram of a Periodically Forced Ribbon between magnets
+Programs_15ff.m --- Needed for Programs_15g
+Programs_15h.m --- Bifurcation Diagram of a Periodically Forced Ribbon between magnets
+Programs_15fff.m --- Needed for Programs_15k
+Programs_15k.m --- Bifurcation Diagram of a Periodically Forced Pendulum
+Programs_16a.m --- Computing Focal Values
+Programs_16b.mn --- MuPAD Commands for Groebner Bases
+Programs_16c.m --- Needed for Programs_16d
+Programs_16d.m --- Animation of a Homoclinic Bifurcation 
+
+Programs_16e.m --- One small-amplitude limit cycle in a Lienard system
+
+Programs_16f.m --- One small-amplitude limit cycle in a Lienard system
+Programs_18a.m --- Generalized Delta Rule (Boston Housing Data) 
+Programs_18b.m --- Backpropagation of Errors
+Programs_18c.m --- Discrete Hopfield Network
+Programs_18d.m --- Chaotic Attractor of a Simple Neuromodule
+Programs_18e.m --- Bifurcation Diagram of a Simple Neuromodule
+Programs_19a.m --- Chaos Control in the Logistic Map
+Programs_19b.m --- Chaos Control in the Henon Map
+Programs_19c.m --- Synchronization Between Two Lorenz Systems
+Programs_20a.m --- Hodgkin-Huxley Spike Train
+Programs_20b.m --- Needed for Programs_20d
+Programs_20c.m --- Needed for Prohrams_20d
+Programs_20d.m --- Time Series of Binary Oscillator Half Adder
+Programs_20e.m --- Needed for Programs_20f
+Programs_20f.m --- Bifurcation Diagram of a Josephson Junction
+Programs_20g.m --- Pinched Hysteresis of a HP Labs Memristor
+Prohrams_20h.m --- Animation of a Josephson junction threshold oscillator 
+
+Simulink Files
+
+Simulink_1.slx --- Series Resistor-Inductor Circuit
+Simulink_2.slx --- Series Resistor-Inductor-Capacitor Circuit
+Simulink_3.slx --- The van der Pol Circuit
+Simulink_4.slx --- A Periodically Forced Pendulum
+Simulink_5.slx --- Simple Fiber Ring (SFR) Resonator
+Simulink_6.slx --- Chaos Control in a SFR Resonator
+Simulink_7.slx --- The Lorenz Equations
+Simulink_8.slx --- Lorenz Equations and Chaos Synchronization
+Simulink_9.slx --- SFR Gaussian Input
+Simulink_10.slx --- Generalized Synchronization

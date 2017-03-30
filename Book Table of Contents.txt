@@ -1,0 +1,185 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% DYNAMICAL SYSTEMS WITH APPLICATIONS USING MATLAB 2nd Edition %
+% COPYRIGHT SPRINGER/BIRKHAUSER 2014    STEPHEN LYNCH          %
+% BOOK PUBLISHED USING R2015a                                  %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+TABLE OF CONTENTS
+
+Preface
+
+1. A Tutorial Introduction to MATLAB and the Symbolic Math Toolbox
+	1.1 Tutorial One: The Basics and the Symbolic Math Toolbox (1 Hour) 
+	1.2 Tutorial Two: Plots and Differential Equations (1 Hour) 
+        1.3 MATLAB Program Files, or M-Files 
+        1.4 Hints for Programming 
+        1.5 MATLAB Exercises 
+           
+2. Linear Discrete Dynamical Systems
+        2.1 Recurrence Relations 
+        2.2 The Leslie Model
+        2.3 Harvesting and Culling Policies
+        2.4 MATLAB Commands
+        2.5 Exercises 
+           
+3. Nonlinear Discrete Dynamical Systems        
+	3.1 The Tent Map and Graphical Iterations 
+        3.2 Fixed Points and Periodic Orbits 
+        3.3 The Logistic Map, Bifurcation Diagram, and Feigenbaum Number 
+        3.4 Gaussian and Hénon Maps 
+	3.5 Applications
+        3.6 MATLAB Commands 
+        3.7 Exercises
+           
+4. Complex Iterative Maps
+        4.1 Julia Sets and the Mandelbrot Set 
+        4.2 Boundaries of Periodic Orbits 
+        4.3 MATLAB Commands 
+        4.4 Exercises
+           
+5. Electromagnetic Waves and Optical Resonators
+        5.1 Maxwell's Equations and Electromagnetic Waves 
+        5.2 Historical Background 
+        5.3 The Nonlinear Simple Fibre Ring Resonator 
+        5.4 Chaotic Attractors and Bistability 
+        5.5 Linear Stability Analysis 
+        5.6 Instabilities and Bistability 
+        5.7 MATLAB Commands 
+        5.8 Exercises 
+            
+6. Fractals and Multifractals
+        6.1 Construction of Simple Examples 
+        6.2 Calculating Fractal Dimensions
+        6.3 A Multifractal Formalism 
+        6.4 Multifractals in the Real World and Some Simple Examples 
+        6.5 MATLAB Commands 
+        6.6 Exercises 
+           
+7. The Image Processing Toolbox
+	7.1 Image Processing and Matrices
+	7.2 The Fast Fourier Transform
+	7.3 The Fast Fourier Transform on Images
+	7.4 Exercises		   		   
+           
+8. Differential Equations
+        8.1 Simple Differential Equations and Applications 
+        8.2 Applications to Chemical Kinetics 
+        8.3 Applications to Electric Circuits 
+        8.4 Existence and Uniqueness Theorem 
+        8.5 MATLAB Commands
+        8.6 Exercises
+           
+9. Planar Systems
+        9.1 Canonical Forms 
+        9.2 Eigenvectors Defining Stable and Unstable Manifolds 
+        9.3 Phase Portraits of Linear Systems in the Plane 
+        9.4 Linearization and Hartman's Theorem 
+        9.5 Constructing Phase Plane Diagrams 
+        9.6 MATLAB Commands 
+        9.7 Exercises 
+           
+10. Interacting Species
+        10.1 Competing Species 
+        10.2 Predator-Prey Models 
+        10.3 Other Characteristics Affecting Interacting Species 
+        10.4 MATLAB Commands
+        10.5 Exercises 
+           
+11. Limit Cycles
+        11.1 Historical Background 
+        11.2 Existence and Uniqueness of Limit Cycles in the Plane 
+        11.3 Non-Existence of Limit Cycles in the Plane 
+	11.4 Perturbation Methods
+	11.5 MATLAB Commands
+        11.6 Exercises 
+           
+12. Hamiltonian Systems, Lyapunov Functions, and Stability
+        12.1 Hamiltonian Systems in the Plane 
+        12.2 Lyapunov Functions and Stability  
+        12.3 MATLAB Commands  
+        12.4 Exercises 
+           
+13. Bifurcation Theory
+        13.1 Bifurcations of Nonlinear Systems in the Plane 
+	13.2 Normal Forms
+        13.3 Multistability and Bistability 
+        13.4 MATLAB Commands 
+        13.5 Exercises
+           
+14. Three-Dimensional Autonomous Systems and Chaos
+        14.1 Linear Systems and Canonical Forms
+        14.2 Nonlinear Systems and Stability 
+        14.3 The Rössler System and Chaos 
+        14.4 The Lorenz Equations, Chua's Circuit, and the Belousov-Zhabotinski Reaction 
+        14.5 MATLAB Commands 
+        14.6 Exercises 
+           
+15. Poincaré Maps and Nonautonomous Systems in the Plane       
+        15.1 Poincaré Maps 
+        15.2 Hamiltonian Systems with Two Degrees of Freedom   
+        15.3 Nonautonomous Systems in the Plane 
+        15.4 MATLAB Commands 
+        15.5 Exercises
+           
+16. Local and Global Bifurcations
+        16.1 Small-Amplitude Limit Cycle Bifurcations 
+	16.2 Gröbner Bases
+        16.3 Melnikov Integrals and Bifurcating Limit Cycles from a Center
+        16.4 Homoclinic Bifurcations 
+        16.5 MATLAB and MuPAD Commands
+        16.6 Exercises 
+           
+17. The Second Part of David Hilbert's 16'th Problem
+        17.1 Statement of Problem and Main Results 
+        17.2 Poincaré Compactification 
+        17.3 Global Results for Liénard Systems 
+        17.4 Local Results for Liénard Systems 
+        17.5 Exercises 
+           
+18. Neural Networks
+        18.1 Introduction 
+        18.2 The Delta Learning Rule and Backpropagation
+        18.3 The Hopfield Network and Lyapunov Stability
+        18.4 Neurodynamics
+        18.5 MATLAB Commands 
+        18.6 Exercises    
+
+19. Chaos Control and Synchronization
+        19.1 Historical Background 
+        19.2 Controlling Chaos in the Logistic Map 
+        19.3 Controlling Chaos in the Hénon Map 
+	19.4 Chaos Synchronization
+        19.5 MATLAB Commands 
+        19.6 Exercises 
+           
+20. Binary Oscillator Computing
+	20.1 Brain Inspired Computing
+	20.2 Oscillatory Threshold Logic
+	20.3 Applications and Future Work
+	20.4 MATLAB Commands
+	20.5 Exercises
+
+21. SIMULINK
+        21.1 Introduction
+        21.2 Electric Circuits 
+        21.3 A Mechanical System 
+        21.4 Nonlinear Optics 
+        21.5 The Lorenz System and Chaos Synchronization
+        21.6 Exercises
+
+22. Examination-Type Questions
+	22.1 Examination 1
+	22.2 Examination 2
+	22.3 Examination 3
+           
+23. Solutions to Exercises  
+
+References
+           Textbooks         
+           Research Papers  
+           
+MATLAB Program File Index
+
+Simulink Model File Index
+
+Index
